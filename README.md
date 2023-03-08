@@ -1,6 +1,5 @@
 ### Hi there 👋
-![dog](https://user-images.githubusercontent.com/124118518/223656201-7b66cacd-58cb-4cd0-a194-a0107c6296c2.png)
-
+![dog](https://user-images.githubusercontent.com/124118518/223658483-1cc8dabc-6baf-4172-8508-0f9f9e57b7e8.png)
 - 🔭 I’m currently working on SSAFY
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with PM, Python Master
