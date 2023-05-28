@@ -13,7 +13,7 @@
 ## 🌱 Studying
 ✔ Programming Language (Python / JavaScript / C++)  
 ✔ Web Programming (Djagno / Vue.js)  
-✔ 정보처리기사 / SQL Developer / Advanced Data Analytics Semi-Professional  
+✔ 빅데이터분석기사 / 정보처리기사 / SQL Developer / Advanced Data Analytics Semi-Professional  
 
 ## 📗 Certificate  
 ✔ 일반기계기사 ('22.06.17)  
