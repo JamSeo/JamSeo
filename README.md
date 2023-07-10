@@ -7,13 +7,13 @@
 ✔ **Samsung SW Academy For Youth 9th (2023)** - on the way to be a data engineer  
 
 ## 👀 Interest
-✔ Web Programming(Front-End / Back-End)  
+✔ Web Programming(Front-End)  
 ✔ a vocal / keyboard performance  
 
 ## 🌱 Studying
-✔ Programming Language (Python / JavaScript / C++)  
-✔ Web Programming (Djagno / Vue.js)  
-✔ 빅데이터분석기사 / 정보처리기사 / SQL Developer 
+✔ Programming Language (Python / JavaScript)  
+✔ Web Programming (Djagno / Vue.js / React / Next.js)  
+✔ 정보처리기사 / SQL Developer 
 
 ## 📗 Certificate  
 ✔ 일반기계기사 ('22.06.17)  
