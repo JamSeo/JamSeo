@@ -36,5 +36,3 @@ Engineer General Machinery ('22.06.17)
 OPIc(en) Intermediate High ('22.07.30)  
 Engineer Information Processing(wr) ('22.06.14)  
 Advanced Data Analytics Semi-Professional ('23.06.16)   
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=footer)  
