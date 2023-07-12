@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=✋Hey%20I'm%20Jam&fontSize=50&animation=fadeIn&fontAlignY=38)
 
-<p style="text-align: right;">
+<div style="text-align: right;">
   <a href="https://www.instagram.com/suhjam/" target="_blank"><img src="https://img.shields.io/badge/suhJam-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="mailto:sjh960815@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sjh960815@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+</div>
 
 ### 🤸‍♂️ Skills
 #### Platforms & Languages
