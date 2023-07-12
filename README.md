@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=✋Welcome%20To%20Jam's%20Page&fontSize=30&animation=fadeIn&fontAlignY=33)  
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=✋Welcome%20To%20Jam's%20Page&fontSize=30&animation=fadeIn&fontAlignY=33)   -->
+![header](./github-header-image.png)
 
 <div align="center">
   <a href="https://www.instagram.com/suhjam/" target="_blank"><img src="https://img.shields.io/badge/suhJam-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
