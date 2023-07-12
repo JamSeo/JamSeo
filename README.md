@@ -1,5 +1,3 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=Seojam!&fontAlign=80&fontAlignY=40&color=193549&fontColor=B897FF)
-
 ### Hi there👋 Welcome to Jam's page
 <p>
   <a href="https://www.instagram.com/suhjam/" target="_blank"><img src="https://img.shields.io/badge/suhJam-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
