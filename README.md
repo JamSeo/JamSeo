@@ -26,12 +26,9 @@
 
 ### ☝ Jam's Log
 
-**SeoulTech (2015 ~ 2020) 👨‍🎓**   
-&nbsp;&nbsp; Bachelor's degree in Mechanical Engineering department   
-**Army Reserve Officer (2020 ~ 2022) 💂‍♂️**   
-&nbsp;&nbsp; Gunnery Captain & Intelligence Officer in ROK Victory Corps   
-**Samsung SW Academy For Youth 9th (2023) 👨‍💼**  
-&nbsp;&nbsp; On the way to be a FrontEnd engineer
+**SeoulTech (2015 ~ 2020) 👨‍🎓** Bachelor's degree in Mechanical Engineering department   
+**Army Reserve Officer (2020 ~ 2022) 💂‍♂️** Gunnery Captain & Intelligence Officer in ROK Victory Corps   
+**Samsung SW Academy For Youth 9th (2023) 👨‍💼** On the way to be a FrontEnd engineer
 
 ### 📗 Certificate  
 Engineer General Machinery ('22.06.17)  
