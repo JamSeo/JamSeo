@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://www.instagram.com/suhjam/" target="_blank"><img src="https://img.shields.io/badge/suhJam-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="mailto:sjh960815@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sjh960815@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://jamseo.github.io/" target="_blank"><img src="https://img.shields.io/badge/jamseo blog-181717.svg?&style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://jamseo.github.io/" target="_blank"><img src="https://img.shields.io/badge/서쨈의 코드서재-181717.svg?&style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
 ### 🎲 Platforms & Languages
